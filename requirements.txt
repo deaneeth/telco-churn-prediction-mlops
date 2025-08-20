@@ -5,3 +5,7 @@ openai
 GROQ
 seaborn
 dotenv
+xgboost
+catboost
+category_encoders
+matplotlib

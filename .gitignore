@@ -1,3 +1,50 @@
-/README.md
-/flow.txt
-/02_preprocessing_ensemble_models_pipeline.ipynb
+flow.txt
+models/pipeline_artifacts/catboost_info/
+
+# ---- Python stuff ----
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment vars & secrets
+.env
+.env.* 
+
+# Logs and runtime files
+*.log
+logs/
+*.sqlite3
+
+# OS / Editor / Tooling
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archives / compressed
+*.zip
+*.tar.gz
+*.gz
+
+# Binary/model files (common extensions)
+*.pkl
+*.h5
+*.onnx
+*.pt
+*.pth
+*.npz
+*.npy
+
+# TensorBoard / TF events
+events.out.tfevents*
+
+# Optional: ignore output from tests
+htmlcov/
+.coverage
+.pytest_cache/
