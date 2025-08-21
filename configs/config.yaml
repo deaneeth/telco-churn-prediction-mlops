@@ -1,0 +1,26 @@
+seed: 42
+data:
+  raw_path: "src/data/processed/telco-customer-churn_cleaned.csv"
+  output_dir: "artifacts"
+processing:
+  numeric_impute: "median"
+  categorical_impute: "most_frequent"
+  scaler: "standard"        # options: standard, robust, minmax
+  encoder: "onehot"        # options: onehot, ordinal, target
+model:
+  rf:
+    n_estimators: 300
+    max_depth: 12
+    min_samples_split: 5
+  xgb:
+    n_estimators: 300
+    learning_rate: 0.05
+  catboost:
+    iterations: 300
+training:
+  cv_folds: 5
+  test_size: 0.2
+  scoring: "roc_auc"
+business:
+  cost_fp: 10.0
+  months_lost: 6

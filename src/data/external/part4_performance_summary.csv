@@ -1,0 +1,2 @@
+model,roc_auc,pr_auc,precision,recall,f1,best_threshold,best_f1,artifact_path
+RandomForest,0.8389198894313983,0.6368315308530927,0.5207207207207207,0.7727272727272727,0.6221743810548978,0.49144896231389945,0.6277836686624196,E:\Projects\mini-project\models\trained_models\RandomForestClassifier_pipeline.joblib

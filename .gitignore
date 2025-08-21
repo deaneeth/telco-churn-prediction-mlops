@@ -1,8 +1,11 @@
 flow.txt
 models/pipeline_artifacts/catboost_info/
+catboost_info/
 
 # ---- Python stuff ----
 __pycache__/
+*.py[cod]
+*$py.class
 
 # Virtual environments
 .venv/
@@ -39,11 +42,22 @@ Thumbs.db
 *.pt
 *.pth
 *.npy
+*.npz
 
 # TensorBoard / TF events
 events.out.tfevents*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
 # Optional: ignore output from tests
 htmlcov/
 .coverage
 .pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+catboost_info
+/catboost_info
