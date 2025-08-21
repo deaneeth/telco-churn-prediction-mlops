@@ -38,7 +38,6 @@ Thumbs.db
 *.onnx
 *.pt
 *.pth
-*.npz
 *.npy
 
 # TensorBoard / TF events
@@ -48,9 +47,3 @@ events.out.tfevents*
 htmlcov/
 .coverage
 .pytest_cache/
-
-
-
-/03_model_evaluation.ipynb
-/03_model_evaluation_clean.ipynb
-trained_models
