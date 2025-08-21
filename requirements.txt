@@ -1,6 +1,6 @@
 numpy 
 pandas
-scikit-learn
+scikit-learn==1.7.0
 openai 
 GROQ
 seaborn
@@ -9,3 +9,11 @@ xgboost
 catboost
 category_encoders
 matplotlib
+imbalanced-learn==0.14.0
+plotly
+joblib
+pyyaml
+python-dotenv
+pandas-profiling
+statsmodels
+ipython
