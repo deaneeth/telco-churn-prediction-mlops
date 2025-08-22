@@ -1,0 +1,101 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,tenure_group,services_count,avg_charge_per_month,churn_proba,segment_fixed,segment_quantile,segment_costopt
+9885-CSMWE,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78.45,78.45,Yes,0 months,2.0,78.45,1.0,High,High,High
+0235-KGSLC,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85.55,85.55,Yes,0 months,3.0,85.55,1.0,High,High,High
+1086-LXKFY,Female,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.1,69.1,Yes,0 months,1.0,69.1,1.0,High,High,High
+7250-EQKIY,Female,0,Yes,Yes,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,50.45,50.45,Yes,0 months,2.0,50.45,1.0,High,High,High
+6372-RFVNS,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78.8,78.8,Yes,0 months,2.0,78.8,1.0,High,High,High
+1084-UQCHV,Male,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69.75,69.75,Yes,0 months,1.0,69.75,1.0,High,High,High
+4501-EQDRN,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69.7,69.7,Yes,0 months,1.0,69.7,1.0,High,High,High
+2506-TNFCO,Female,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.55,69.55,Yes,0 months,1.0,69.55,1.0,High,High,High
+5103-MHMHY,Female,0,No,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.95,45.95,Yes,0 months,1.0,45.95,1.0,High,High,High
+1285-OKIPP,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,79.9,79.9,Yes,0 months,2.0,79.9,1.0,High,High,High
+6358-LYNGM,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.9,74.9,Yes,0 months,2.0,74.9,1.0,High,High,High
+9507-EXLTT,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),79.35,79.35,Yes,0 months,2.0,79.35,1.0,High,High,High
+0259-GBZSH,Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.65,181.5,Yes,1-12,3.0,90.75,1.0,High,High,High
+0968-GSIKN,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.8,70.8,Yes,0 months,1.0,70.8,1.0,High,High,High
+6567-HOOPW,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.2,79.2,Yes,0 months,2.0,79.2,1.0,High,High,High
+5494-HECPR,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.25,80.25,Yes,0 months,2.0,80.25,1.0,High,High,High
+7908-QCBCA,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.4,69.4,Yes,0 months,1.0,69.4,1.0,High,High,High
+7054-LGEQW,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.95,45.95,Yes,0 months,1.0,45.95,1.0,High,High,High
+1820-TQVEV,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.55,69.55,Yes,0 months,1.0,69.55,1.0,High,High,High
+9907-SWKKF,Female,1,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.05,25.05,Yes,0 months,0.0,25.05,1.0,High,High,High
+0495-RVCBF,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.7,79.7,Yes,0 months,2.0,79.7,1.0,High,High,High
+6086-ESGRL,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Credit card (automatic),80.15,80.15,Yes,0 months,2.0,80.15,1.0,High,High,High
+4910-GMJOT,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.6,94.6,Yes,0 months,4.0,94.6,1.0,High,High,High
+4826-XTSOH,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86.05,86.05,Yes,0 months,3.0,86.05,1.0,High,High,High
+2777-PHDEI,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78.05,78.05,Yes,0 months,2.0,78.05,1.0,High,High,High
+9117-SHLZX,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.7,45.7,Yes,0 months,1.0,45.7,1.0,High,High,High
+3006-XIMLN,Female,0,No,Yes,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94.2,193.8,Yes,1-12,4.0,96.9,1.0,High,High,High
+8062-YBDOE,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.65,69.65,Yes,0 months,1.0,69.65,1.0,High,High,High
+8945-GRKHX,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,78.65,78.65,Yes,0 months,2.0,78.65,1.0,High,High,High
+3296-SILRA,Female,1,Yes,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,76.4,76.4,Yes,0 months,2.0,76.4,1.0,High,High,High
+7294-TMAOP,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,90.55,90.55,Yes,0 months,3.0,90.55,1.0,High,High,High
+7767-UXAGJ,Male,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.45,50.45,Yes,0 months,2.0,50.45,1.0,High,High,High
+8375-DKEBR,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.6,69.6,Yes,0 months,1.0,69.6,1.0,High,High,High
+4550-EVXNY,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.65,69.65,Yes,0 months,1.0,69.65,1.0,High,High,High
+6521-YYTYI,Male,0,No,Yes,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.3,93.3,Yes,0 months,4.0,93.3,1.0,High,High,High
+2636-ALXXZ,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.6,69.6,Yes,0 months,1.0,69.6,1.0,High,High,High
+7660-HDPJV,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.2,69.2,Yes,0 months,1.0,69.2,1.0,High,High,High
+8280-MQRQN,Female,0,No,No,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,50.45,50.45,Yes,0 months,2.0,50.45,1.0,High,High,High
+2609-IAICY,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77.15,77.15,Yes,0 months,2.0,77.15,1.0,High,High,High
+4844-JJWUY,Female,1,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86.0,86.0,Yes,0 months,3.0,86.0,1.0,High,High,High
+7274-RTAPZ,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.55,90.55,Yes,0 months,3.0,90.55,1.0,High,High,High
+6910-HADCM,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76.35,76.35,Yes,0 months,2.0,76.35,1.0,High,High,High
+5919-TMRGD,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.35,79.35,Yes,0 months,2.0,79.35,1.0,High,High,High
+9300-AGZNL,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.0,94.0,Yes,0 months,4.0,94.0,1.0,High,High,High
+6689-KXGBO,Female,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,50.55,50.55,Yes,0 months,2.0,50.55,1.0,High,High,High
+0295-PPHDO,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,95.45,Yes,0 months,4.0,95.45,1.0,High,High,High
+4184-TJFAN,Female,1,Yes,Yes,3,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,88.3,273.75,Yes,1-12,4.0,91.25,1.0,High,High,High
+4110-PFEUZ,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,69.55,69.55,Yes,0 months,1.0,69.55,1.0,High,High,High
+9728-FTTVZ,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.2,69.2,Yes,0 months,1.0,69.2,1.0,High,High,High
+5597-GLBUC,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,85.45,85.45,Yes,0 months,3.0,85.45,1.0,High,High,High
+6894-LFHLY,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.75,75.75,Yes,0 months,2.0,75.75,1.0,High,High,High
+8580-AECUZ,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.1,79.1,Yes,0 months,2.0,79.1,1.0,High,High,High
+3049-NDXFL,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,85.8,85.8,Yes,0 months,3.0,85.8,1.0,High,High,High
+5186-SAMNZ,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.5,69.5,Yes,0 months,1.0,69.5,1.0,High,High,High
+4871-JTKJF,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.65,69.65,Yes,0 months,1.0,69.65,1.0,High,High,High
+3428-XZMAZ,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.35,69.35,Yes,0 months,1.0,69.35,1.0,High,High,High
+1761-AEZZR,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.55,79.55,Yes,0 months,2.0,79.55,1.0,High,High,High
+9248-OJYKK,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.45,76.45,Yes,0 months,2.0,76.45,1.0,High,High,High
+7254-IQWOZ,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.65,69.65,Yes,0 months,1.0,69.65,1.0,High,High,High
+6502-MJQAE,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.6,69.6,Yes,0 months,1.0,69.6,1.0,High,High,High
+0616-ATFGB,Male,1,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.05,25.05,Yes,0 months,0.0,25.05,1.0,High,High,High
+0887-HJGAR,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.7,45.7,Yes,0 months,1.0,45.7,1.0,High,High,High
+0151-ONTOV,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70.9,70.9,Yes,0 months,1.0,70.9,1.0,High,High,High
+7665-TOALD,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.6,69.6,Yes,0 months,1.0,69.6,1.0,High,High,High
+5884-GCYMI,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,69.4,69.4,Yes,0 months,1.0,69.4,1.0,High,High,High
+9497-QCMMS,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.55,93.55,Yes,0 months,4.0,93.55,1.0,High,High,High
+1031-IIDEO,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.85,70.85,Yes,0 months,1.0,70.85,1.0,High,High,High
+5539-TMZLF,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.75,69.75,Yes,0 months,1.0,69.75,1.0,High,High,High
+5192-EBGOV,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.7,85.7,Yes,0 months,3.0,85.7,1.0,High,High,High
+2012-NWRPA,Female,1,Yes,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.55,1131.2,Yes,1-12,5.0,102.83636363636364,1.0,High,High,High
+9828-AOQLM,Female,0,Yes,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.7,45.7,Yes,0 months,1.0,45.7,1.0,High,High,High
+6608-QQLVK,Male,0,No,No,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,50.5,50.5,Yes,0 months,2.0,50.5,1.0,High,High,High
+6960-HVYXR,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,76.0,76.0,Yes,0 months,2.0,76.0,1.0,High,High,High
+5797-APWZC,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,90.6,90.6,Yes,0 months,3.0,90.6,1.0,High,High,High
+7932-WPTDS,Female,1,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.8,24.8,Yes,0 months,0.0,24.8,1.0,High,High,High
+6996-KNSML,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74.9,74.9,Yes,0 months,2.0,74.9,1.0,High,High,High
+8168-UQWWF,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),97.85,1105.4,Yes,1-12,5.0,100.4909090909091,1.0,High,High,High
+7594-RQHXR,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.6,79.6,Yes,0 months,2.0,79.6,1.0,High,High,High
+6861-XWTWQ,Male,1,Yes,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.25,665.45,Yes,1-12,5.0,95.06428571428572,1.0,High,High,High
+3716-BDVDB,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.1,69.1,Yes,0 months,1.0,69.1,1.0,High,High,High
+0488-GSLFR,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.5,69.5,Yes,0 months,1.0,69.5,1.0,High,High,High
+9124-LHCJQ,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,85.45,85.45,Yes,0 months,3.0,85.45,1.0,High,High,High
+5393-RXQSZ,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,79.6,79.6,Yes,0 months,2.0,79.6,1.0,High,High,High
+9444-JTXHZ,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76.2,76.2,Yes,0 months,2.0,76.2,1.0,High,High,High
+8149-RSOUN,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.85,93.85,Yes,0 months,4.0,93.85,1.0,High,High,High
+6457-GIRWB,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.35,69.35,Yes,0 months,1.0,69.35,1.0,High,High,High
+9223-UCPVT,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,94.4,94.4,Yes,0 months,4.0,94.4,1.0,High,High,High
+8058-INTPH,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.65,79.65,Yes,0 months,2.0,79.65,1.0,High,High,High
+3186-BAXNB,Female,0,No,No,1,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,91.7,91.7,Yes,0 months,4.0,91.7,1.0,High,High,High
+0023-HGHWL,Male,1,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.1,25.1,Yes,0 months,0.0,25.1,1.0,High,High,High
+2514-GINMM,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.5,79.5,Yes,0 months,2.0,79.5,1.0,High,High,High
+9019-QVLZD,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,79.55,79.55,Yes,0 months,2.0,79.55,1.0,High,High,High
+5550-VFRLC,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.85,69.85,Yes,0 months,1.0,69.85,0.996,High,High,High
+7359-PTSXY,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.75,45.75,Yes,0 months,1.0,45.75,0.995,High,High,High
+8740-CRYFY,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.95,78.95,Yes,0 months,2.0,78.95,0.9933333333333333,High,High,High
+2725-KXXWT,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.75,90.75,Yes,0 months,3.0,90.75,0.99,High,High,High
+1768-ZAIFU,Female,1,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.2,25.2,Yes,0 months,0.0,25.2,0.99,High,High,High
+3988-RQIXO,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.3,91.3,Yes,0 months,3.0,91.3,0.99,High,High,High
+8775-LHDJH,Female,1,Yes,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.6,90.6,Yes,0 months,4.0,90.6,0.99,High,High,High
+5167-ZFFMM,Male,0,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),90.85,90.85,Yes,0 months,4.0,90.85,0.99,High,High,High
