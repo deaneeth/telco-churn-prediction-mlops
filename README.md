@@ -6,7 +6,7 @@
 
 > ⚠️ **Note**: This project requires scikit-learn 1.7.0 and imbalanced-learn 0.14.0. Using different versions may cause compatibility issues.
 
-## Project Overview
+## 📌 Project Overview
 
 This project implements an end-to-end machine learning pipeline for predicting customer churn in a telecommunications company. By identifying customers likely to cancel their services, the company can implement targeted retention strategies.
 
