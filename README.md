@@ -18,7 +18,7 @@ This project implements an end-to-end machine learning pipeline for predicting c
 - **Production-Ready**: FastAPI implementation for real-time inference
 - **Business Insights**: ROI calculations and customer segmentation
 
-## Business Context 🏢
+## 🏢 Business Context 
 
 This project helps telecommunications companies:
 
@@ -27,7 +27,7 @@ This project helps telecommunications companies:
 - 💰 Estimate the financial impact of retention campaigns
 - ⚡ Deploy real-time predictions for new customer data
 
-## Project Structure 📁
+## 📁 Project Structure 
 
 Main components:
 
@@ -39,7 +39,7 @@ Main components:
 
 For a detailed directory structure of the project, see [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md).
 
-## Installation 🚀
+## 🚀 Installation 
 
 1. Clone the repository
 
@@ -58,7 +58,7 @@ For a detailed directory structure of the project, see [PROJECT_STRUCTURE.md](PR
    pip install -r requirements.txt
    ```
 
-## Dataset 📋
+## 📋 Dataset 
 
 The dataset contains customer information including:
 
@@ -68,7 +68,7 @@ The dataset contains customer information including:
 - 💵 Financial information (monthly charges, total charges)
 - 🎯 Target variable: customer churn status
 
-## Workflow 🔄
+## 🔄 Workflow 
 
 1. 🔍 **Data Exploration**: Analysis of customer churn patterns and feature relationships
 2. 🧹 **Preprocessing**: Data cleaning, feature engineering, and preprocessing pipeline
@@ -77,7 +77,7 @@ The dataset contains customer information including:
 5. 📦 **Production Pipeline**: Packaging for deployment
 6. 💼 **Business Analysis**: Customer segmentation and ROI calculations
 
-## Results 📈
+## 📈 Results 
 
 ### Model Evaluation Results
 
@@ -99,20 +99,20 @@ The dataset contains customer information including:
 >
 > This project will be enhanced with these improvements in the near future.
 
-### Key Insights 💡
+### 💡 Key Insights 
 
 - 🥇 CatBoost achieved the highest F1 score (0.627859) with the best balance of precision and recall
 - 📊 LogisticRegression shows strong performance with high ROC-AUC (0.847129)
 - 🎯 XGBoost provides the highest precision (0.685714) but with lower recall
 - 📈 The ensemble models generally outperform the baseline models (Decision Tree)
 
-### Feature Importance 🔑
+### 🔑 Feature Importance 
 
 - 📝 Contract type, tenure, and service issues are the strongest predictors
 - ⚠️ Month-to-month contracts with technical issues show highest churn rates
 - 💰 Targeted interventions show 3-5x return on investment
 
-## Deployment 🚀
+## 🚀 Deployment 
 
 The model will be deployed as a real-time prediction service using FastAPI:
 
@@ -120,7 +120,7 @@ The model will be deployed as a real-time prediction service using FastAPI:
 will be updated...
 ```
 
-## Future Work 🔮
+## 🔮 Future Work 
 
 - 🔄 Model monitoring and retraining pipeline
 - 🗃️ Feature store for reproducibility
